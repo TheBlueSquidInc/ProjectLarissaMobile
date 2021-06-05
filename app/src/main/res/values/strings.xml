@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ProjectLarissa</string>
+    <string name="lhName">Local Host Name: </string>
+    <string name="lhIp">Local Host IP: </string>
+    <string name="lhAdr">Local Host MAC: </string>
+    <string name="transType">Transport? </string>
+    <string name="sndRcv">Snd/Rcv? </string>
+    <string name="destIp">Dest. IP: </string>
+    <string name="destPort">Dest. Port#: </string>
+    <string name="btnTxt">Snd/Rcv!</string>
+    <string name="multiTxtStr">Enter/Receive text here!</string>
+    <string-array name="transArray">
+        <item>UDP</item>
+
+    </string-array>
+    <string-array name="sndRcvArray">
+        <item>Send</item>
+        <item>Receive</item>
+    </string-array>
+</resources>
